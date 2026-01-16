@@ -2,7 +2,6 @@
 //#include <stdio.h>
 //irem kurna
 //2420161073
-//[
 //](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=4qguekny2j)
 void bubbleSort(int arr[], int n);
 int binarySearch(int arr[], int n, int target);
